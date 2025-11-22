@@ -1,0 +1,19 @@
+.cards{
+    display:flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+}
+
+.red, .black{
+    background-color: rgb(189, 189, 189);
+    font-size: larger;
+}
+
+.red{
+    color:red;
+}
+
+.black{
+    color: black;
+}
